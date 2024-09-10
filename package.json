@@ -2,7 +2,7 @@
   "name": "color-tools",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Technoresult-colortools/DevColorToolsReact",
+  "homepage": "https://Technoresult.github.io/DevColorToolsReact",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
